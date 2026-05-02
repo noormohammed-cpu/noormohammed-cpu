@@ -16,7 +16,7 @@
 
 <img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noormohammed17&label=Profile%20views&color=0e75b6&style=flat" alt="noormohammed17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noormohammed-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="noormohammed-cpu" /> </p>
 
 - 🔭 I’m currently working on **real-world web development projects**, focusing on creating scalable and user-friendly MERN applications.  
 
@@ -83,8 +83,8 @@
 
 <!-- <p align="center">
   <a href="#">
-        <img width="400px" height="200px" alt="Noor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMohammed17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=NoorMohammed17&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+        <img width="400px" height="200px" alt="Noor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMohammed-cpu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=NoorMohammed-cpu&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
   </a>
 
 </p> -->
